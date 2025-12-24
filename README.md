@@ -23,16 +23,8 @@
 <div align="center">
     <h1>PeekPili</h1>
     <p>基于 PiliPlus 二次开发，集成 TVbox 视频源播放功能</p>
-    
-<img src="assets/screenshots/510shots_so.png" width="32%" alt="home" />
-<img src="assets/screenshots/174shots_so.png" width="32%" alt="home" />
-<img src="assets/screenshots/850shots_so.png" width="32%" alt="home" />
-<br/>
-<img src="assets/screenshots/main_screen.png" width="96%" alt="home" />
-<br/>
+ 
 </div>
-
-
 <br/>
 
 ## 项目简介
